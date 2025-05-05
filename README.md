@@ -55,18 +55,6 @@ This project presents an **interactive dashboard built using Power BI** to explo
 
 ---
 
-## 📷 Sample Dashboard Screenshots
-
-> Add screenshots of your Power BI report pages here for visual reference.
-
-| Overview | Feature Analysis |
-|----------|------------------|
-| ![Dashboard Page 1](#) | ![Dashboard Page 2](#) |
-
-> _Note: Replace `#` with the actual image links from your repo._
-
----
-
 ## 🚀 Insights Gained
 
 - Increasing trend of high-energy and danceable music in recent years.
